@@ -61,6 +61,7 @@ The LKRC project is committed to:
 - Twitter: [Coming Soon]
 - Telegram: [Coming Soon]
 - GitHub: [https://github.com/theyworker/LKRC](https://github.com/theyworker/LKRC)
+- Solana Explorer : [https://explorer.solana.com/address/mntnUPUjEhqF3WofoEsX83Kf3TCw1DB9kMpTUoXQqkQ?cluster=devnet]
 
 ## Disclaimer
 
