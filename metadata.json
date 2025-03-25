@@ -1,6 +1,6 @@
 {
   "name": "LKR Coin",
   "description": "A stablecoin designed to bring digital stability to the Sri Lankan Rupee (LKR)",
-  "image": "https://via.placeholder.com/150",
+  "image": "https://raw.githubusercontent.com/theyworker/LKRC/refs/heads/main/LKRC.png",
   "symbol": "LKRC"
 }
